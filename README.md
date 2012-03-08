@@ -3,6 +3,7 @@ Run Opera Mini offline
 
 You can test your pages on Opera Mini online on Opera website:
 
+http://www.opera.com/developer/tools/mini/
 
 But if you are offline, it may be handy to be able to run everything offline on your computer. This simple project creates an offline script to run Opera Mini 4 and 6 on your computer.
 
